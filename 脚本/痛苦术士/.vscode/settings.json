@@ -1,0 +1,7 @@
+{
+  "Lua.diagnostics.globals": [
+    "UnitHealthMax",
+    "UnitManaMax",
+    "UnitClassification"
+  ]
+}
